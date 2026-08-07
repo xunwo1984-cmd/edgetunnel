@@ -1,4 +1,4 @@
-# wrangler.toml
+# wrangler.toml部署文件
 name = 'edgetunnel'
 main = "_worker.js"
 compatibility_date = "2025-11-04"
